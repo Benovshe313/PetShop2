@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CAT_catShop\CAT_catShop\obj\Debug\net8.0\CAT_catShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CAT_catShop\CAT_catShop\obj\Debug\net8.0\CAT_catShop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CAT_catShop\CAT_catShop\obj\Debug\net8.0\CAT_catShop.AssemblyInfo.cs
+C:\Users\User\source\repos\CAT_catShop\CAT_catShop\obj\Debug\net8.0\CAT_catShop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CAT_catShop\CAT_catShop\bin\Debug\net8.0\CAT_catShop.exe
+C:\Users\User\source\repos\CAT_catShop\CAT_catShop\bin\Debug\net8.0\CAT_catShop.deps.json
+C:\Users\User\source\repos\CAT_catShop\CAT_catShop\bin\Debug\net8.0\CAT_catShop.runtimeconfig.json
+C:\Users\User\source\repos\CAT_catShop\CAT_catShop\bin\Debug\net8.0\CAT_catShop.dll
+C:\Users\User\source\repos\CAT_catShop\CAT_catShop\bin\Debug\net8.0\CAT_catShop.pdb
+C:\Users\User\source\repos\CAT_catShop\CAT_catShop\obj\Debug\net8.0\CAT_catShop.dll
+C:\Users\User\source\repos\CAT_catShop\CAT_catShop\obj\Debug\net8.0\refint\CAT_catShop.dll
+C:\Users\User\source\repos\CAT_catShop\CAT_catShop\obj\Debug\net8.0\CAT_catShop.pdb
+C:\Users\User\source\repos\CAT_catShop\CAT_catShop\obj\Debug\net8.0\CAT_catShop.genruntimeconfig.cache
+C:\Users\User\source\repos\CAT_catShop\CAT_catShop\obj\Debug\net8.0\ref\CAT_catShop.dll
